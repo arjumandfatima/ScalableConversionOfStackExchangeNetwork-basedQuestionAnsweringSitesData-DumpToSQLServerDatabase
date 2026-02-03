@@ -11,4 +11,5 @@ For any information, interested researchers can contact us by sending an email t
 
 ## How to cite the package
 ## Pre-requisites
+### 1. Downloading the data dump
 You first need to download the quarterly updated data dump of any of the Stack Exchange sites as explained [here](https://stackoverflow.com/help/data-dumps). We have utilized the data dump published in October 2025 for   _Stack Overflow_ which is the oldest among 182 Stack Exchange sites with the largest data dump to show the effectiveness of the proposed method.
