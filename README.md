@@ -1,7 +1,7 @@
 # Scalable Conversion of Stack Exchange Network-based Question Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump
 A replication package accompanying paper  entitled "Scalable Conversion of Stack Exchange Network-based Question Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump"
 ## DOI to be added
-This repository contains the replication package of the paper submitted to the Array Journal _Scalable Conversion of Stack Exchange Network-based Ques-tion Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump_
+This repository contains the replication package of the paper submitted to the Array Journal entitled _Scalable Conversion of Stack Exchange Network-based Ques-tion Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump_
 
 This method has been designed, developed, and reported by the following investigators:
 1. Ms. Arjumand Fatima (Department of Computer Science, Quaid-i-Azam University)
@@ -12,9 +12,9 @@ For any information, interested researchers can contact us by sending an email t
 ## How to cite the package
 ## Pre-requisites
 ### 1. Downloading the data dump
-You first need to download the quarterly updated data dump of any of the Stack Exchange sites as explained [here](https://stackoverflow.com/help/data-dumps). We have utilized the data dump published in October 2025 for   _Stack Overflow_ which is the oldest among 182 Stack Exchange sites with the largest data dump to show the effectiveness of the proposed method.
+You first need to download the quarterly updated data dump of any of the Stack Exchange sites as explained [here](https://stackoverflow.com/help/data-dumps). We have utilized the data dump published in January 2026 for   _Stack Overflow_ which is the oldest among 182 Stack Exchange sites with the largest data dump to show the effectiveness of the proposed method.
 ### 2. Programming Languages, Tools, Operating System and Database Management System Used
-You need to have the following up and running before following the procedure.
+You need to have the following up and running before following the step by step procedure.
 1. Windows based Operating System (we have tested the procedure on Windows 10 Pro and Windows 11 Pro).
 2. Python (we used Python version 3.13.5 which was installed through Anaconda Distribution; you can install Python directly but we preferred Anaconda distribution as it contains Jupyter notebook).
 3. Jupyter Notebook (to run the Python scripts provided in the paper; you may use command prompt or some other IDE if you have some experience of Python programming).
@@ -22,3 +22,7 @@ You need to have the following up and running before following the procedure.
 5. SQL Server Management Studio (SSMS) (a graphical user interface (GUI) based tool to play with data so that you don't have to use command prompt). [Download SSMS](https://learn.microsoft.com/en-us/ssms/install/install).
 6. Git Bash (you need to install Git on Windows; Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience). [Download Git for Windows /x64 Setup](https://git-scm.com/install/windows).
    
+### 3. Downloading and Installing the Required Tools
+In this section we explain the downloading and installation steps for each of the required items listed above before moving to the actual procedural details. You can skip this section if you have already installed the requried tools. We assume that the readers have a Windows based machine for following these instructions.
+#### 3.1 Python
+
