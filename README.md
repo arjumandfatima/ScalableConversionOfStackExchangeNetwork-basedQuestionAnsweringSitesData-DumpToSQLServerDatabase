@@ -25,7 +25,7 @@ You need to have the following up and running before following the step by step 
 ### 3. Downloading and Installing the Required Tools
 In this section we explain the downloading and installation steps for each of the required items listed above before moving to the actual procedural details. You can skip this section if you have already installed the requried tools. We assume that the readers have a Windows based machine for following these instructions.
 #### 3.1 Python
-![Project Screenshot](images/python/1.png)
-![Project Screenshot](images/python/2.png)
-![Project Screenshot](images/python/3.png)
-![Project Screenshot](images/python/4.png)
+![Project Screenshot](images/python/1.PNG)
+![Project Screenshot](images/python/2.PNG)
+![Project Screenshot](images/python/3.PNG)
+![Project Screenshot](images/python/4.PNG)
