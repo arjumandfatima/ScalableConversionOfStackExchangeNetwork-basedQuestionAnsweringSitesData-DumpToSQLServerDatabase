@@ -27,5 +27,7 @@ In this section we explain the downloading and installation steps for each of th
 #### 3.1 Python
 ![Project Screenshot](images/python/1.PNG)
 ![Project Screenshot](images/python/2.PNG)
+![Project Screenshot](images/python/2a.PNG)
 ![Project Screenshot](images/python/3.PNG)
+![Project Screenshot](images/python/3a.PNG)
 ![Project Screenshot](images/python/4.PNG)
