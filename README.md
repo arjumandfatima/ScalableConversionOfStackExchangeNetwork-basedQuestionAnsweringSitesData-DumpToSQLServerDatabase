@@ -31,3 +31,8 @@ In this section we explain the downloading and installation steps for each of th
 ![Project Screenshot](images/python/3.PNG)
 ![Project Screenshot](images/python/3a.PNG)
 ![Project Screenshot](images/python/4.PNG)
+
+
+![Project Screenshot](images/7zip/1.PNG)
+![Project Screenshot](images/7zip/2.PNG)
+![Project Screenshot](images/7zip/3.PNG)
