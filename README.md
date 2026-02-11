@@ -56,3 +56,12 @@ In this section we explain the downloading and installation steps for each of th
 ![Project Screenshot](images/git-bash/15.PNG)
 ![Project Screenshot](images/git-bash/16.PNG)
 ![Project Screenshot](images/git-bash/17.PNG)
+
+
+![Project Screenshot](images/jupyter-notebook/1.PNG)
+![Project Screenshot](images/jupyter-notebook/2.PNG)
+![Project Screenshot](images/jupyter-notebook/3.PNG)
+![Project Screenshot](images/jupyter-notebook/4.PNG)
+![Project Screenshot](images/jupyter-notebook/5.PNG)
+![Project Screenshot](images/jupyter-notebook/5a.PNG)
+![Project Screenshot](images/jupyter-notebook/6.PNG)
