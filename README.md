@@ -88,4 +88,7 @@ In this section we explain the downloading and installation steps for each of th
 ![Project Screenshot](images/sql-server/19a.PNG)
 ![Project Screenshot](images/sql-server/20a.PNG)
 
-
+![Project Screenshot](images/ssms/1.PNG)
+![Project Screenshot](images/ssms/2.PNG)
+![Project Screenshot](images/ssms/3.PNG)
+![Project Screenshot](images/ssms/4.PNG)
