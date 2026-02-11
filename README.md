@@ -65,3 +65,26 @@ In this section we explain the downloading and installation steps for each of th
 ![Project Screenshot](images/jupyter-notebook/5.PNG)
 ![Project Screenshot](images/jupyter-notebook/5a.PNG)
 ![Project Screenshot](images/jupyter-notebook/6.PNG)
+
+
+![Project Screenshot](images/sql-server/1.PNG)
+![Project Screenshot](images/sql-server/2.PNG)
+![Project Screenshot](images/sql-server/2a.PNG)
+![Project Screenshot](images/sql-server/3a.PNG)
+![Project Screenshot](images/sql-server/4a.PNG)
+![Project Screenshot](images/sql-server/6a.PNG)
+![Project Screenshot](images/sql-server/7a.PNG)
+![Project Screenshot](images/sql-server/8a.PNG)
+![Project Screenshot](images/sql-server/9a.PNG)
+![Project Screenshot](images/sql-server/10a.PNG)
+![Project Screenshot](images/sql-server/11a.PNG)
+![Project Screenshot](images/sql-server/12a.PNG)
+![Project Screenshot](images/sql-server/13a.PNG)
+![Project Screenshot](images/sql-server/14a.PNG)
+![Project Screenshot](images/sql-server/15a.PNG)
+![Project Screenshot](images/sql-server/16a.PNG)
+![Project Screenshot](images/sql-server/17a.PNG)
+![Project Screenshot](images/sql-server/18a.PNG)
+![Project Screenshot](images/sql-server/19a.PNG)
+
+
