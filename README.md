@@ -45,20 +45,8 @@ Click next.<br>
 ![Next](images/anaconda/9.PNG)<br>
 Press finish.<br>
 ![Finish](images/anaconda/10.PNG)<br>
-
-![Project Screenshot](images/python/1.PNG)
-![Project Screenshot](images/python/2.PNG)
-![Project Screenshot](images/python/2a.PNG)
-![Project Screenshot](images/python/3.PNG)
-![Project Screenshot](images/python/3a.PNG)
-![Project Screenshot](images/python/4.PNG)
-
-
-![Project Screenshot](images/7zip/1.PNG)
-![Project Screenshot](images/7zip/2.PNG)
-![Project Screenshot](images/7zip/3.PNG)
-
-
+By now you have successfully installed Python and Jupyter Notebooks. 
+#### Git Bash
 ![Project Screenshot](images/git-bash/1.PNG)
 ![Project Screenshot](images/git-bash/2.PNG)
 ![Project Screenshot](images/git-bash/3.PNG)
@@ -77,6 +65,14 @@ Press finish.<br>
 ![Project Screenshot](images/git-bash/15.PNG)
 ![Project Screenshot](images/git-bash/16.PNG)
 ![Project Screenshot](images/git-bash/17.PNG)
+#### 7zip
+
+![Project Screenshot](images/7zip/1.PNG)
+![Project Screenshot](images/7zip/2.PNG)
+![Project Screenshot](images/7zip/3.PNG)
+
+
+
 
 
 ![Project Screenshot](images/jupyter-notebook/1.PNG)
