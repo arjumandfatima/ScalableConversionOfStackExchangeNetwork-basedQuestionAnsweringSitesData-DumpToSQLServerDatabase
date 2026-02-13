@@ -47,24 +47,34 @@ Press finish.<br>
 ![Finish](images/anaconda/10.PNG)<br>
 By now you have successfully installed Python and Jupyter Notebooks. 
 #### Git Bash
-![Project Screenshot](images/git-bash/1.PNG)
-![Project Screenshot](images/git-bash/2.PNG)
-![Project Screenshot](images/git-bash/3.PNG)
-![Project Screenshot](images/git-bash/4.PNG)
-![Project Screenshot](images/git-bash/5.PNG)
-![Project Screenshot](images/git-bash/5a.PNG)
-![Project Screenshot](images/git-bash/6.PNG)
-![Project Screenshot](images/git-bash/7.PNG)
-![Project Screenshot](images/git-bash/8.PNG)
-![Project Screenshot](images/git-bash/9.PNG)
-![Project Screenshot](images/git-bash/10.PNG)
-![Project Screenshot](images/git-bash/11.PNG)
-![Project Screenshot](images/git-bash/12.PNG)
-![Project Screenshot](images/git-bash/13.PNG)
-![Project Screenshot](images/git-bash/14.PNG)
-![Project Screenshot](images/git-bash/15.PNG)
-![Project Screenshot](images/git-bash/16.PNG)
-![Project Screenshot](images/git-bash/17.PNG)
+Go to the [official website of git](https://git-scm.com/) and press the Install for Windows button as shown below. The download will begin.<br>
+![Official site](images/git-bash/1.PNG)<br>
+Once downloaded, run the installer. The setup wizard will appear as shown below. Click Next.<br>
+![Click next](images/git-bash/2.PNG)<br>
+Select destination location (keep the default value).<br>
+![Destination location](images/git-bash/3.PNG)<br>
+Select components to be installed. Ensure Open Git Bash here is selected. Keep the rest as default.<br>
+![Select git bash](images/git-bash/4.PNG)<br>
+Choose the default editor for git. Several options are available in the drop down. Select the one you prefer. In our case, we didn't use any editor for git so the choice doesn't matter.<br>
+![Preferred Editor](images/git-bash/5.PNG)<br>
+Keep the default setting for the rest of the options presented to you before the installation begins.<br>
+![Next](images/git-bash/5a.PNG)<br>
+![Next](images/git-bash/6.PNG)<br>
+![Next](images/git-bash/7.PNG)<br>
+![Next](images/git-bash/8.PNG)<br>
+![Next](images/git-bash/9.PNG)<br>
+![Next](images/git-bash/10.PNG)<br>
+![Next](images/git-bash/11.PNG)<br>
+![Next](images/git-bash/12.PNG)<br>
+![Next](images/git-bash/13.PNG)<br>
+Press the install button.<br>
+![Install](images/git-bash/14.PNG)<br>
+The installation will begin.<br>
+![Installing](images/git-bash/15.PNG)<br>
+Select launch git bash.<br>
+![Launch](images/git-bash/16.PNG)<br>
+A small command prompt like window will appear as shown below.<br>
+![Project Screenshot](images/git-bash/17.PNG)<br>
 #### 7zip
 
 ![Project Screenshot](images/7zip/1.PNG)
