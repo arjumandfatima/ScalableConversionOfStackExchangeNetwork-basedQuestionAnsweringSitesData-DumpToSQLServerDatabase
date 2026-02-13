@@ -75,27 +75,10 @@ Select launch git bash.<br>
 ![Launch](images/git-bash/16.PNG)<br>
 A small command prompt like window will appear as shown below.<br>
 ![Project Screenshot](images/git-bash/17.PNG)<br>
-#### 7zip
-
-![Project Screenshot](images/7zip/1.PNG)
-![Project Screenshot](images/7zip/2.PNG)
-![Project Screenshot](images/7zip/3.PNG)
-
-
-
-
-
-![Project Screenshot](images/jupyter-notebook/1.PNG)
-![Project Screenshot](images/jupyter-notebook/2.PNG)
-![Project Screenshot](images/jupyter-notebook/3.PNG)
-![Project Screenshot](images/jupyter-notebook/4.PNG)
-![Project Screenshot](images/jupyter-notebook/5.PNG)
-![Project Screenshot](images/jupyter-notebook/5a.PNG)
-![Project Screenshot](images/jupyter-notebook/6.PNG)
-
-
+#### MS SQL Server and SQL Server Management Studio (SSMS)0
+Go to the [official site of SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and select Download Standard Developer Edition as shown below.
 ![Project Screenshot](images/sql-server/1.PNG)
-![Project Screenshot](images/sql-server/2.PNG)
+Once downloaded, run the installer. It will ask you to select an installation type. We used the custom option
 ![Project Screenshot](images/sql-server/2a.PNG)
 ![Project Screenshot](images/sql-server/3a.PNG)
 ![Project Screenshot](images/sql-server/4a.PNG)
@@ -119,3 +102,17 @@ A small command prompt like window will appear as shown below.<br>
 ![Project Screenshot](images/ssms/2.PNG)
 ![Project Screenshot](images/ssms/3.PNG)
 ![Project Screenshot](images/ssms/4.PNG)
+
+#### 7zip
+
+![Project Screenshot](images/7zip/1.PNG)
+![Project Screenshot](images/7zip/2.PNG)
+![Project Screenshot](images/7zip/3.PNG)
+
+
+
+
+
+
+
+
