@@ -26,25 +26,25 @@ You need to have the following up and running before following the step by step 
 In this section we explain the downloading and installation steps for each of the required items listed above before moving to the actual procedural details. You can skip this section if you have already installed the requried tools. We assume that the readers have a Windows based machine for following these instructions.
 #### 3.1 Anaconda Distribution of Python
 Go to the [official Anaconda site](https://www.anaconda.com/download) where you will be required to sign up for downloading the distribution. After successful sign-up process, the system will offer you miniconda or anaconda distribution for download. Select anaconda distribution. Once downloaded, execute the installer by selecting Run as administrator from the context menu as shown below.
-![Run as administrator](images/anaconda/1.png)
-Click next to continue.
-![Click next](images/anaconda/2.PNG)
-Agree to the license agreement.
-![License agreement](images/anaconda/3.PNG)
-Select installation type.
-![Installation type](images/anaconda/4.PNG)
-Choose the install location (keep the default).
-![Install location](images/anaconda/5.PNG)
-Check the advanced installation options as shown below.
-![Advanced installation options](images/anaconda/6.PNG)
-The installation will begin.
-![Installing](images/anaconda/7.PNG)
-It will take a few minutes to complete the installation
-![Installation completed](images/anaconda/8.PNG)
-Click next.
-![Next](images/anaconda/9.PNG)
-Press finish.
-![Finish](images/anaconda/10.PNG)
+![Run as administrator](images/anaconda/1.png)<br>
+Click next to continue.<br>
+![Click next](images/anaconda/2.PNG)<br>
+Agree to the license agreement.<br>
+![License agreement](images/anaconda/3.PNG)<br>
+Select installation type.<br>
+![Installation type](images/anaconda/4.PNG)<br>
+Choose the install location (keep the default).<br>
+![Install location](images/anaconda/5.PNG)<br>
+Check the advanced installation options as shown below.<br>
+![Advanced installation options](images/anaconda/6.PNG)<br>
+The installation will begin.<br>
+![Installing](images/anaconda/7.PNG)<br>
+It will take a few minutes to complete the installation.<br>
+![Installation completed](images/anaconda/8.PNG)<br>
+Click next.<br>
+![Next](images/anaconda/9.PNG)<br>
+Press finish.<br>
+![Finish](images/anaconda/10.PNG)<br>
 
 ![Project Screenshot](images/python/1.PNG)
 ![Project Screenshot](images/python/2.PNG)
