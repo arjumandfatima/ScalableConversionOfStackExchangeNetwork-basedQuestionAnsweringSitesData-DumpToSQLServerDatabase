@@ -16,15 +16,26 @@ You first need to download the quarterly updated data dump of any of the Stack E
 ### 2. Programming Languages, Tools, Operating System and Database Management System Used
 You need to have the following up and running before following the step by step procedure.
 1. Windows based Operating System (we have tested the procedure on Windows 10 Pro and Windows 11 Pro).
-2. Python (we used Python version 3.13.5 which was installed through Anaconda Distribution; you can install Python directly but we preferred Anaconda distribution as it contains Jupyter notebook).
+2. Python (we used Python version 3.13.9 which was installed through Anaconda Distribution; instead of downloading Python from its official site we preferred Anaconda Distribution as it contains Jupyter Notebooks and Pandas installed and has several other data science related libararies/pacakges installed).
 3. Jupyter Notebook (to run the Python scripts provided in the paper; you may use command prompt or some other IDE if you have some experience of Python programming).
 4. MS SQL Server Developer Edition (the database management system to store data; the Express Edition is not suitable due to 10GB database size limitation). [Download SQL Server 2025 Developer Edition](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
 5. SQL Server Management Studio (SSMS) (a graphical user interface (GUI) based tool to play with data so that you don't have to use command prompt). [Download SSMS](https://learn.microsoft.com/en-us/ssms/install/install).
 6. Git Bash (you need to install Git on Windows; Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience). [Download Git for Windows /x64 Setup](https://git-scm.com/install/windows).
-   
+7. 7zip (if your Windows version does not provide native support to unzip 7zip files. Windows 11 (23H2 and later) versions have native support for 7zip files).   
 ### 3. Downloading and Installing the Required Tools
 In this section we explain the downloading and installation steps for each of the required items listed above before moving to the actual procedural details. You can skip this section if you have already installed the requried tools. We assume that the readers have a Windows based machine for following these instructions.
-#### 3.1 Python
+#### 3.1 Python 
+![Project Screenshot](images/anaconda/1.PNG)
+![Project Screenshot](images/anaconda/2.PNG)
+![Project Screenshot](images/anaconda/3.PNG)
+![Project Screenshot](images/anaconda/4.PNG)
+![Project Screenshot](images/anaconda/5.PNG)
+![Project Screenshot](images/anaconda/6.PNG)
+![Project Screenshot](images/anaconda/7.PNG)
+![Project Screenshot](images/anaconda/8.PNG)
+![Project Screenshot](images/anaconda/9.PNG)
+![Project Screenshot](images/anaconda/10.PNG)
+
 ![Project Screenshot](images/python/1.PNG)
 ![Project Screenshot](images/python/2.PNG)
 ![Project Screenshot](images/python/2a.PNG)
