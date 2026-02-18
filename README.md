@@ -194,13 +194,19 @@ By now you have successfully installed Python and Jupyter Notebooks.
 
 
 ### 7. Creating Databases and Tables in MS SQL Server Using SSMS
+1. Open SSMS and press the connect button on the connection window that pops up. Carefully chose the connection properties as shown below.<br>
 ![Project Screenshot](images/data-dump/database-creation/1.PNG)<br>
+2. In the object explorer on the left side, select databases and right click. Select New Database.<br>
 ![Project Screenshot](images/data-dump/database-creation/2.PNG)<br>
+3. New Database wizard will appear. You can follow the database naming conventions from the accompanying jupter notebook. Enter database name.<br>
 ![Project Screenshot](images/data-dump/database-creation/3.PNG)<br>
+4. If your C: drive has limited space, change the path for database files to some other drive having ample amount of space as shown below. Click Ok.<br>
 ![Project Screenshot](images/data-dump/database-creation/4.PNG)<br>
+5. Once the database is created, it will be shown in the object explorer under Databases.<br>
 ![Project Screenshot](images/data-dump/database-creation/5.PNG)<br>
-![Project Screenshot](images/data-dump/database-creation/6.PNG)<br>
+6. Repeat the same process for creating databases for Comments, Posts, PostHistory, PostLinks, Tags, Users, Votes.<br>
 ![Project Screenshot](images/data-dump/database-creation/7.PNG)<br>
+7. Once the required databases are created, we need to run the SQL scripts for creating tables. These scripts are present in the paper, in the accompanying notebook and in the repostory as create_database_tables.sql. You can get them from any of these three locations and run the scripts as shown below in SSMS. 
 ![Project Screenshot](images/data-dump/database-creation/8.PNG)<br>
 ![Project Screenshot](images/data-dump/database-creation/9.PNG)<br>
 ![Project Screenshot](images/data-dump/database-creation/10.PNG)<br>
