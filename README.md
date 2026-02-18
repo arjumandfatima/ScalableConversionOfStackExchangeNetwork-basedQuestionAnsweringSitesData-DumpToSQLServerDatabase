@@ -148,7 +148,9 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/download/6.PNG)<br>
 
 ### 5. Creating the Required Directory Structure
+1. We have provided a create_split_folders.py file in the replication package. Download it and place it in the extracted folder containing the data dump. From now onwards, we will call it the root folder.
 ![Project Screenshot](images/data-dump/create-split-xml/1.PNG)<br>
+2. Open your Anaconda Prompt here. The image below shows simple command prompt but you need to do the same thing on Anaconda Prompt. Change the default path to the root directory and run the create_split_folders.py as shown below. It will ask you to select the files that you want to split. Based on your selection, the corresponding folders will be created. We have skipped Tags and PostLinks because we do not want to split them.
 ![Project Screenshot](images/data-dump/create-split-xml/2.PNG)<br>
 
 ### 5. Creating the Required Directory Structure
