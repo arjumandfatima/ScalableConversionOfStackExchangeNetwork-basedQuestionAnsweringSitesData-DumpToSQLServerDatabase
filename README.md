@@ -175,14 +175,21 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/split/10.PNG)<br>
 
 ### 6. Converting Smaller Chunks to Proper XML Files
+1. Download the accompanying Jupyter Notebook (StackOverflow_DataDump_Parsers.ipynb) present in the replication package on your PC. Note the download location and launch the jupyter notebook from Anaconda prompt as shown below.<br>
 ![Project Screenshot](images/data-dump/chunk-to-xml/1.PNG)<br>
-
+2. Jupyter notebook will be launched in the browser.<br>
 ![Project Screenshot](images/data-dump/chunk-to-xml/2.PNG)<br>
+3. Now you need to run the code snippet provided in Step 3 (converting splitted files to proper XML files). This step needs to be repeated for Badges, Comments, PostHistory, Posts, Users and Votes one by one. Before running you need to change the input_path and output_path each time accordingly. Furthermore, you need to change opening and closing tags (<posts> and </posts>) each time according to the type of file e.g. <badges></badges> and so on. We started with PostHistory.<br>
 ![Project Screenshot](images/data-dump/chunk-to-xml/3.PNG)<br>
+4. Posts<br>
 ![Project Screenshot](images/data-dump/chunk-to-xml/4.PNG)<br>
+5. Votes<br>
 ![Project Screenshot](images/data-dump/chunk-to-xml/5.PNG)<br>
+6. Users<br>
 ![Project Screenshot](images/data-dump/chunk-to-xml/6.PNG)<br>
+7. Comments<br>
 ![Project Screenshot](images/data-dump/chunk-to-xml/7.PNG)<br>
+8. Badges <br>
 ![Project Screenshot](images/data-dump/chunk-to-xml/8.PNG)<br>
 
 
