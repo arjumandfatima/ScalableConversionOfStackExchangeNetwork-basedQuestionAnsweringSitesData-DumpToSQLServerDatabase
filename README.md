@@ -193,6 +193,23 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/chunk-to-xml/8.PNG)<br>
 
 
+### 7. Creating Databases and Tables in MS SQL Server Using SSMS
+![Project Screenshot](images/data-dump/database-creation/1.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/2.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/3.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/4.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/5.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/6.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/7.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/8.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/9.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/10.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/11.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/12.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/13.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/14.PNG)<br>
+![Project Screenshot](images/data-dump/database-creation/tags.PNG)<br>
+
 
 
 
