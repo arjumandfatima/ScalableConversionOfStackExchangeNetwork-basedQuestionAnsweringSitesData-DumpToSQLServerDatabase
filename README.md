@@ -216,14 +216,13 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/database-creation/10.PNG)<br>
 12. Creating StackOverflowPosts.<br>
 ![Project Screenshot](images/data-dump/database-creation/11.PNG)<br>
-13. Creating StackOverflowPosts.<br>
+13. Creating StackOverflowTags.<br>
 ![Project Screenshot](images/data-dump/database-creation/12.PNG)<br>
-14. Creating StackOverflowTags.<br>
+14. Creating StackOverflowUsers.<br>
 ![Project Screenshot](images/data-dump/database-creation/13.PNG)<br>
-15. Creating StackOverflowUsers.<br>
+15. Creating StackOverflowVotes.<br>
 ![Project Screenshot](images/data-dump/database-creation/14.PNG)<br>
-16. Creating StackOverflowVotes.<br>
-![Project Screenshot](images/data-dump/database-creation/tags.PNG)<br>
+
 
 
 
