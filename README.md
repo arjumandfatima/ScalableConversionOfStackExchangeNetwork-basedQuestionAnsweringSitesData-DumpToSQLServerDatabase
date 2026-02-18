@@ -174,6 +174,18 @@ By now you have successfully installed Python and Jupyter Notebooks.
 10. PostHistory<br>
 ![Project Screenshot](images/data-dump/split/10.PNG)<br>
 
+### 6. Converting Smaller Chunks to Proper XML Files
+![Project Screenshot](images/data-dump/chunk-to-xml/1.PNG)<br>
+
+![Project Screenshot](images/data-dump/chunk-to-xml/2.PNG)<br>
+![Project Screenshot](images/data-dump/chunk-to-xml/3.PNG)<br>
+![Project Screenshot](images/data-dump/chunk-to-xml/4.PNG)<br>
+![Project Screenshot](images/data-dump/chunk-to-xml/5.PNG)<br>
+![Project Screenshot](images/data-dump/chunk-to-xml/6.PNG)<br>
+![Project Screenshot](images/data-dump/chunk-to-xml/7.PNG)<br>
+![Project Screenshot](images/data-dump/chunk-to-xml/8.PNG)<br>
+
+
 
 
 
