@@ -239,7 +239,7 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/execute-many/users.PNG)<br>
 8. Votes Parser for Stack Overflow dataset.<br>
 ![Project Screenshot](images/data-dump/execute-many/votes.PNG)<br>
-
+The time shown in the screenshots may not be accurate, particularly in case of PostHistory and Posts which were not executed in one go. 
 
 
 
