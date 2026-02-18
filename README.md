@@ -132,12 +132,19 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/7zip/3.PNG)<br>
 
 ### 4. Extracting the Downloaded Data Dump 
+1. From this step onwards, we are dealing with Stack Overflow data dump published in January 2026 as a case study. You can follow the same procedure to download the Stack Exchange based data dump of any of the 182 Stack Exchange sites.<br>
 ![Project Screenshot](images/data-dump/download/jan.PNG)<br>
+2. Ensure that the data dump has successfully downloaded by comparing the size of the downloaded file with that mentioned on the respective size. Once the data dump has successfully downloaded, we need to decompress it. <br>
 ![Project Screenshot](images/data-dump/download/1.PNG)<br>
+3. Right click the folder, select 7zip --> Extract files.<br>
 ![Project Screenshot](images/data-dump/download/2.PNG)<br>
+4. Select Extract to location and press ok. <br>
 ![Project Screenshot](images/data-dump/download/3.PNG)<br>
+5. The extraction process will take some time depending on the file size.<br>
 ![Project Screenshot](images/data-dump/download/4.PNG)<br>
+6. In case of Stack Overflow January 2026 data dump the extracted folder comprised of 333GB. <br>
 ![Project Screenshot](images/data-dump/download/5.PNG)<br>
+7. The data dump will contain 8 XML files along with a license statement and a metadata file.<br>
 ![Project Screenshot](images/data-dump/download/6.PNG)<br>
 
 ### 5. Creating the Required Directory Structure
