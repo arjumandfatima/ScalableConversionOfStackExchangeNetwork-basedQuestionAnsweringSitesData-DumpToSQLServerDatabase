@@ -148,21 +148,30 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/download/6.PNG)<br>
 
 ### 5. Creating the Required Directory Structure
-1. We have provided a create_split_folders.py file in the replication package. Download it and place it in the extracted folder containing the data dump. From now onwards, we will call it the root folder.
+1. We have provided a create_split_folders.py file in the replication package. Download it and place it in the extracted folder containing the data dump. From now onwards, we will call it the root folder.<br>
 ![Project Screenshot](images/data-dump/create-split-xml/1.PNG)<br>
-2. Open your Anaconda Prompt here. The image below shows simple command prompt but you need to do the same thing on Anaconda Prompt. Change the default path to the root directory and run the create_split_folders.py as shown below. It will ask you to select the files that you want to split. Based on your selection, the corresponding folders will be created. We have skipped Tags and PostLinks because we do not want to split them.
+2. Open your Anaconda Prompt here. The image below shows simple command prompt but you need to do the same thing on Anaconda Prompt. Change the default path to the root directory and run the create_split_folders.py as shown below. It will ask you to select the files that you want to split. Based on your selection, the corresponding folders will be created. We have skipped Tags and PostLinks because we do not want to split them.<br>
 ![Project Screenshot](images/data-dump/create-split-xml/2.PNG)<br>
 
 ### 5. Splitting Large Sized XML File to Smaller Chunks Using Git Bash
+1. Open Git Bash.<br>
 ![Project Screenshot](images/data-dump/split/1.png)<br>
+2. Change the path to your root directory.<br>
 ![Project Screenshot](images/data-dump/split/2.PNG)<br>
 ![Project Screenshot](images/data-dump/split/3.PNG)<br>
+3. Type the split commands mentioned in Step 2 of the accompanying Jupyter Notebook (StackOverflow_DataDump_Parsers.ipynb) present in the replication package.<br> We started with Badges. The corresponding command will create chunks of Badges.xml starting from Badges00000 inside Badges/Split folder.<br>
 ![Project Screenshot](images/data-dump/split/4.PNG)<br>
+4. Once the split process is completed, the time taken to split will be displayed. We have reported the real time in paper.<br>
 ![Project Screenshot](images/data-dump/split/5.PNG)<br>
+5. Repeat the same step for Users.<br>
 ![Project Screenshot](images/data-dump/split/6.PNG)<br>
+6. Do the same for Comments.<br>
 ![Project Screenshot](images/data-dump/split/7.PNG)<br>
+7. Votes<br>
 ![Project Screenshot](images/data-dump/split/8.PNG)<br>
+9. Posts<br>
 ![Project Screenshot](images/data-dump/split/9.PNG)<br>
+10. PostHistory<br>
 ![Project Screenshot](images/data-dump/split/10.PNG)<br>
 
 
