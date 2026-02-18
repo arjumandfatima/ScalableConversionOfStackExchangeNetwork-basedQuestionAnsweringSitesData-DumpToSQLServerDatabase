@@ -47,17 +47,17 @@ In this section we explain the downloading and installation steps for each of th
 ![Finish](images/anaconda/10.PNG)<br>
 By now you have successfully installed Python and Jupyter Notebooks. 
 #### Git Bash
-Go to the [official website of git](https://git-scm.com/) and press the Install for Windows button as shown below. The download will begin.<br>
+1. Go to the [official website of git](https://git-scm.com/) and press the Install for Windows button as shown below. The download will begin.<br>
 ![Official site](images/git-bash/1.PNG)<br>
-Once downloaded, run the installer. The setup wizard will appear as shown below. Click Next.<br>
+2. Once downloaded, run the installer. The setup wizard will appear as shown below. Click Next.<br>
 ![Click next](images/git-bash/2.PNG)<br>
-Select destination location (keep the default value).<br>
+3. Select destination location (keep the default value).<br>
 ![Destination location](images/git-bash/3.PNG)<br>
-Select components to be installed. Ensure Open Git Bash here is selected. Keep the rest as default.<br>
+4. Select components to be installed. Ensure Open Git Bash here is selected. Keep the rest as default.<br>
 ![Select git bash](images/git-bash/4.PNG)<br>
-Choose the default editor for git. Several options are available in the drop down. Select the one you prefer. In our case, we didn't use any editor for git so the choice doesn't matter.<br>
+5. Choose the default editor for git. Several options are available in the drop down. Select the one you prefer. In our case, we didn't use any editor for git so the choice doesn't matter.<br>
 ![Preferred Editor](images/git-bash/5.PNG)<br>
-Keep the default settings for the rest of the options presented to you before the installation begins.<br>
+6. Keep the default settings for the rest of the options presented to you before the installation begins.<br>
 ![Next](images/git-bash/5a.PNG)<br>
 ![Next](images/git-bash/6.PNG)<br>
 ![Next](images/git-bash/7.PNG)<br>
@@ -67,13 +67,13 @@ Keep the default settings for the rest of the options presented to you before th
 ![Next](images/git-bash/11.PNG)<br>
 ![Next](images/git-bash/12.PNG)<br>
 ![Next](images/git-bash/13.PNG)<br>
-Press the install button.<br>
+7. Press the install button.<br>
 ![Install](images/git-bash/14.PNG)<br>
-The installation will begin.<br>
+8. The installation will begin.<br>
 ![Installing](images/git-bash/15.PNG)<br>
-Select launch git bash.<br>
+9. Select launch git bash.<br>
 ![Launch](images/git-bash/16.PNG)<br>
-A small command prompt like window will appear as shown below.<br>
+10. A small command prompt like window will appear as shown below. This is the git bash window.<br>
 ![Project Screenshot](images/git-bash/17.PNG)<br>
 #### MS SQL Server and SQL Server Management Studio (SSMS)0
 Go to the [official site of SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and select Download Standard Developer Edition as shown below.
