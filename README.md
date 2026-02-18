@@ -205,15 +205,24 @@ By now you have successfully installed Python and Jupyter Notebooks.
 5. Once the database is created, it will be shown in the object explorer under Databases.<br>
 ![Project Screenshot](images/data-dump/database-creation/5.PNG)<br>
 6. Repeat the same process for creating databases for Comments, Posts, PostHistory, PostLinks, Tags, Users, Votes.<br>
+
+7. Once the required databases are created, we need to run the SQL scripts for creating tables. These scripts are present in the paper, in the accompanying notebook and in the repostory as create_database_tables.sql. You can get them from any of these three locations and run the scripts as shown below in SSMS. Creating StackOverflowBadges.<br>
 ![Project Screenshot](images/data-dump/database-creation/7.PNG)<br>
-7. Once the required databases are created, we need to run the SQL scripts for creating tables. These scripts are present in the paper, in the accompanying notebook and in the repostory as create_database_tables.sql. You can get them from any of these three locations and run the scripts as shown below in SSMS. 
+9. Creating StackOverflowComments. <br>
 ![Project Screenshot](images/data-dump/database-creation/8.PNG)<br>
+10. Creating StackOverflowPostHistory. <br>
 ![Project Screenshot](images/data-dump/database-creation/9.PNG)<br>
+11. Creating StackOverflowPostLinks.<br>
 ![Project Screenshot](images/data-dump/database-creation/10.PNG)<br>
+12. Creating StackOverflowPosts.<br>
 ![Project Screenshot](images/data-dump/database-creation/11.PNG)<br>
+13. Creating StackOverflowPosts.<br>
 ![Project Screenshot](images/data-dump/database-creation/12.PNG)<br>
+14. Creating StackOverflowTags.<br>
 ![Project Screenshot](images/data-dump/database-creation/13.PNG)<br>
+15. Creating StackOverflowUsers.<br>
 ![Project Screenshot](images/data-dump/database-creation/14.PNG)<br>
+16. Creating StackOverflowVotes.<br>
 ![Project Screenshot](images/data-dump/database-creation/tags.PNG)<br>
 
 
