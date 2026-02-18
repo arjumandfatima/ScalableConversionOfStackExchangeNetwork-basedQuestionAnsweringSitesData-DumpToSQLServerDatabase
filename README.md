@@ -205,7 +205,6 @@ By now you have successfully installed Python and Jupyter Notebooks.
 5. Once the database is created, it will be shown in the object explorer under Databases.<br>
 ![Project Screenshot](images/data-dump/database-creation/5.PNG)<br>
 6. Repeat the same process for creating databases for Comments, Posts, PostHistory, PostLinks, Tags, Users, Votes.<br>
-
 7. Once the required databases are created, we need to run the SQL scripts for creating tables. These scripts are present in the paper, in the accompanying notebook and in the repostory as create_database_tables.sql. You can get them from any of these three locations and run the scripts as shown below in SSMS. Creating StackOverflowBadges.<br>
 ![Project Screenshot](images/data-dump/database-creation/7.PNG)<br>
 9. Creating StackOverflowComments. <br>
@@ -223,7 +222,15 @@ By now you have successfully installed Python and Jupyter Notebooks.
 15. Creating StackOverflowVotes.<br>
 ![Project Screenshot](images/data-dump/database-creation/14.PNG)<br>
 
-
+### 8. Reading small XML files and saving data to database
+![Project Screenshot](images/data-dump/execute-many/badges.PNG)<br>
+![Project Screenshot](images/data-dump/execute-many/comments.PNG)<br>
+![Project Screenshot](images/data-dump/execute-many/posthistory.NG)<br>
+![Project Screenshot](images/data-dump/execute-many/postlinks.PNG)<br>
+![Project Screenshot](images/data-dump/execute-many/posts.PNG)<br>
+![Project Screenshot](images/data-dump/execute-many/tags.PNG)<br>
+![Project Screenshot](images/data-dump/execute-many/users.PNG)<br>
+![Project Screenshot](images/data-dump/execute-many/votes.PNG)<br>
 
 
 
