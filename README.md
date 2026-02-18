@@ -153,7 +153,19 @@ By now you have successfully installed Python and Jupyter Notebooks.
 2. Open your Anaconda Prompt here. The image below shows simple command prompt but you need to do the same thing on Anaconda Prompt. Change the default path to the root directory and run the create_split_folders.py as shown below. It will ask you to select the files that you want to split. Based on your selection, the corresponding folders will be created. We have skipped Tags and PostLinks because we do not want to split them.
 ![Project Screenshot](images/data-dump/create-split-xml/2.PNG)<br>
 
-### 5. Creating the Required Directory Structure
+### 5. Splitting Large Sized XML File to Smaller Chunks Using Git Bash
+![Project Screenshot](images/data-dump/split/1.PNG)<br>
+![Project Screenshot](images/data-dump/split/2.PNG)<br>
+![Project Screenshot](images/data-dump/split/3.PNG)<br>
+![Project Screenshot](images/data-dump/split/4.PNG)<br>
+![Project Screenshot](images/data-dump/split/5.PNG)<br>
+![Project Screenshot](images/data-dump/split/6.PNG)<br>
+![Project Screenshot](images/data-dump/split/7.PNG)<br>
+![Project Screenshot](images/data-dump/split/8.PNG)<br>
+![Project Screenshot](images/data-dump/split/9.PNG)<br>
+![Project Screenshot](images/data-dump/split/10.PNG)<br>
+
+
 
 
 
