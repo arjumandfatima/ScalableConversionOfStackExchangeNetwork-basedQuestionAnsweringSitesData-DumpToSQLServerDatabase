@@ -223,13 +223,21 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/database-creation/14.PNG)<br>
 
 ### 8. Reading small XML files and saving data to database
+1. We now need to run the Badges Parser for Stack Overflow dataset section of the accompanying note. This will iteratively read the multiple XML files generated from the single large Badges.xml file present in the data dump. In each iteration, the file name under process will be printed along with time taken so far. Use the same approach to process the other files as well by running the respective parsers. <br>
 ![Project Screenshot](images/data-dump/execute-many/badges.PNG)<br>
+2. Comments Parser for Stack Overflow dataset. <br>
 ![Project Screenshot](images/data-dump/execute-many/comments.PNG)<br>
-![Project Screenshot](images/data-dump/execute-many/posthistory.NG)<br>
+3. PostHistory Parser for Stack Overflow dataset. <br>
+![Project Screenshot](images/data-dump/execute-many/posthistory.PNG)<br>
+4. PostLinks Parser for Stack Overflow dataset.<br>
 ![Project Screenshot](images/data-dump/execute-many/postlinks.PNG)<br>
+5. Posts Parser for Stack Overflow dataset. <br>
 ![Project Screenshot](images/data-dump/execute-many/posts.PNG)<br>
+6. Tags Parser for Stack Overflow dataset. <br>
 ![Project Screenshot](images/data-dump/execute-many/tags.PNG)<br>
+7. Users Parser for Stack Overflow dataset.<br>
 ![Project Screenshot](images/data-dump/execute-many/users.PNG)<br>
+8. Votes Parser for Stack Overflow dataset.<br>
 ![Project Screenshot](images/data-dump/execute-many/votes.PNG)<br>
 
 
