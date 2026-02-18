@@ -154,7 +154,7 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/create-split-xml/2.PNG)<br>
 
 ### 5. Splitting Large Sized XML File to Smaller Chunks Using Git Bash
-![Project Screenshot](images/data-dump/split/1.PNG)<br>
+![Project Screenshot](images/data-dump/split/1.png)<br>
 ![Project Screenshot](images/data-dump/split/2.PNG)<br>
 ![Project Screenshot](images/data-dump/split/3.PNG)<br>
 ![Project Screenshot](images/data-dump/split/4.PNG)<br>
