@@ -140,8 +140,11 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/data-dump/download/5.PNG)<br>
 ![Project Screenshot](images/data-dump/download/6.PNG)<br>
 
+### 5. Creating the Required Directory Structure
+![Project Screenshot](images/data-dump/create-split-xml/1.PNG)<br>
+![Project Screenshot](images/data-dump/create-split-xml/2.PNG)<br>
 
-
+### 5. Creating the Required Directory Structure
 
 
 
