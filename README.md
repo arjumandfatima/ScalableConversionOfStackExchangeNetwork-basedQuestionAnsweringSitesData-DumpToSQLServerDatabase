@@ -131,6 +131,15 @@ By now you have successfully installed Python and Jupyter Notebooks.
 4. Once the installation is complete, press close.
 ![Project Screenshot](images/7zip/3.PNG)<br>
 
+### 4. Extracting the Downloaded Data Dump 
+![Project Screenshot](images/data-dump/download/jan.PNG)<br>
+![Project Screenshot](images/data-dump/download/1.PNG)<br>
+![Project Screenshot](images/data-dump/download/2.PNG)<br>
+![Project Screenshot](images/data-dump/download/3.PNG)<br>
+![Project Screenshot](images/data-dump/download/4.PNG)<br>
+![Project Screenshot](images/data-dump/download/5.PNG)<br>
+![Project Screenshot](images/data-dump/download/6.PNG)<br>
+
 
 
 
