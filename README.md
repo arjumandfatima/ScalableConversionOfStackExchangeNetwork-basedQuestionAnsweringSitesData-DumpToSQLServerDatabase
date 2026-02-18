@@ -84,21 +84,33 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/sql-server/3a.PNG)<br>
 5. It will lead you to the SQL Server Installation Center. From the left menu select Installation.<br>
 ![Project Screenshot](images/sql-server/4a.PNG)<br>
-6. This will launch the SQL Server 2025 Setup. Select Standard Developer edition (as shown) and press Next.
+6. This will launch the SQL Server 2025 Setup. Select Standard Developer edition (as shown) and press Next.<br>
 ![Project Screenshot](images/sql-server/6a.PNG)<br>
+7. Agree to the license agreement and click the Next button.<br>
 ![Project Screenshot](images/sql-server/7a.PNG)<br>
+8. Check Use Microsoft Update to check for updates (recommended) and click Next.<br>
 ![Project Screenshot](images/sql-server/8a.PNG)<br>
+9. The rule checking process will begin.<br>
 ![Project Screenshot](images/sql-server/9a.PNG)<br>
+10. Click Next when the rules are successfully passed.<br>
 ![Project Screenshot](images/sql-server/10a.PNG)<br>
+11. We are not interested in Azure Extension for SQL Server for this case, so simple ignore the options and click Next.
 ![Project Screenshot](images/sql-server/11a.PNG)<br>
+12. In the Feature Selection window, check Full-Text and Semantic Extractions for Search and press Next. (We selected the custom installation option to enable this feature).<br>
 ![Project Screenshot](images/sql-server/12a.PNG)<br>
+13. In the Instance Configuration window, keep the default instance selected and click Next.<br>
 ![Project Screenshot](images/sql-server/13a.PNG)<br>
+14. Keep the Server Configuration as it is and click Next.<br>
 ![Project Screenshot](images/sql-server/14a.PNG)<br>
+15. In case of Database Engine Configuration, select Windows Authentication Mode and then click Add Current User. After adding the Current User, click Next.<br>
 ![Project Screenshot](images/sql-server/15a.PNG)<br>
 ![Project Screenshot](images/sql-server/16a.PNG)<br>
+16. By now you have configured everything needed and the setup is ready for installation. Click Install.<br>
 ![Project Screenshot](images/sql-server/17a.PNG)<br>
 ![Project Screenshot](images/sql-server/18a.PNG)<br>
+17. Once the installation is complete, click close. This will take you back to SQL Server Installation Center. <br>
 ![Project Screenshot](images/sql-server/19a.PNG)<br>
+18. Now select Install SQL Server Management Tools
 ![Project Screenshot](images/sql-server/20a.PNG)<br>
 
 ![Project Screenshot](images/ssms/1.PNG)<br>
