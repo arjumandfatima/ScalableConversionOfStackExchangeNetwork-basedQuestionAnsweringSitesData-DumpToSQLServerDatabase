@@ -114,9 +114,12 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/sql-server/20a.PNG)<br>
 19. This will lead you to the official Microsfot page for Install SQL Management Studio. Press Download SQL Server Management Studio 22 Installer to download the installer.<br>
 ![Project Screenshot](images/ssms/8.PNG)<br>
+20. Once the installer has been downloaded, run it. Visual Studio Installer will be launched. Click Continue.<br>
 ![Project Screenshot](images/ssms/1.PNG)<br>
 ![Project Screenshot](images/ssms/2.PNG)<br>
+21. Once the Visual Studio Installer is ready, it will start downloading and installing the SQL Server Management Studio.<br>
 ![Project Screenshot](images/ssms/3.PNG)<br>
+22. Restart your computer once the installation is done.<br>
 ![Project Screenshot](images/ssms/4.PNG)<br>
 
 #### 7zip
