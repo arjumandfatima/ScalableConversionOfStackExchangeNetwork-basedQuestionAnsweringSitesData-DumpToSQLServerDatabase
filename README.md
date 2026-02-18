@@ -94,7 +94,7 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/sql-server/9a.PNG)<br>
 10. Click Next when the rules are successfully passed.<br>
 ![Project Screenshot](images/sql-server/10a.PNG)<br>
-11. We are not interested in Azure Extension for SQL Server for this case, so simple ignore the options and click Next.
+11. We are not interested in Azure Extension for SQL Server for this case, so simply ignore the options and click Next.
 ![Project Screenshot](images/sql-server/11a.PNG)<br>
 12. In the Feature Selection window, check Full-Text and Semantic Extractions for Search and press Next. (We selected the custom installation option to enable this feature).<br>
 ![Project Screenshot](images/sql-server/12a.PNG)<br>
@@ -113,6 +113,7 @@ By now you have successfully installed Python and Jupyter Notebooks.
 18. Now select Install SQL Server Management Tools
 ![Project Screenshot](images/sql-server/20a.PNG)<br>
 19. This will lead you to the official Microsfot page for Install SQL Management Studio. Press Download SQL Server Management Studio 22 Installer to download the installer.<br>
+![Project Screenshot](images/ssms/8.PNG)<br>
 ![Project Screenshot](images/ssms/1.PNG)<br>
 ![Project Screenshot](images/ssms/2.PNG)<br>
 ![Project Screenshot](images/ssms/3.PNG)<br>
