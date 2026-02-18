@@ -46,7 +46,7 @@ In this section we explain the downloading and installation steps for each of th
 10. Press finish.<br>
 ![Finish](images/anaconda/10.PNG)<br>
 By now you have successfully installed Python and Jupyter Notebooks. 
-#### Git Bash
+#### 3.2 Git Bash
 1. Go to the [official website of git](https://git-scm.com/) and press the Install for Windows button as shown below. The download will begin.<br>
 ![Official site](images/git-bash/1.PNG)<br>
 2. Once downloaded, run the installer. The setup wizard will appear as shown below. Click Next.<br>
@@ -75,39 +75,42 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Launch](images/git-bash/16.PNG)<br>
 10. A small command prompt like window will appear as shown below. This is the git bash window.<br>
 ![Project Screenshot](images/git-bash/17.PNG)<br>
-#### MS SQL Server and SQL Server Management Studio (SSMS)0
-Go to the [official site of SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and select Download Standard Developer Edition as shown below.
-![Project Screenshot](images/sql-server/1.PNG)
-Once downloaded, run the installer. It will ask you to select an installation type. We used the custom option
-![Project Screenshot](images/sql-server/2a.PNG)
-![Project Screenshot](images/sql-server/3a.PNG)
-![Project Screenshot](images/sql-server/4a.PNG)
-![Project Screenshot](images/sql-server/6a.PNG)
-![Project Screenshot](images/sql-server/7a.PNG)
-![Project Screenshot](images/sql-server/8a.PNG)
-![Project Screenshot](images/sql-server/9a.PNG)
-![Project Screenshot](images/sql-server/10a.PNG)
-![Project Screenshot](images/sql-server/11a.PNG)
-![Project Screenshot](images/sql-server/12a.PNG)
-![Project Screenshot](images/sql-server/13a.PNG)
-![Project Screenshot](images/sql-server/14a.PNG)
-![Project Screenshot](images/sql-server/15a.PNG)
-![Project Screenshot](images/sql-server/16a.PNG)
-![Project Screenshot](images/sql-server/17a.PNG)
-![Project Screenshot](images/sql-server/18a.PNG)
-![Project Screenshot](images/sql-server/19a.PNG)
-![Project Screenshot](images/sql-server/20a.PNG)
+#### 3.3 MS SQL Server and SQL Server Management Studio (SSMS)0
+1. Go to the [official site of SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and select Download Standard Developer Edition as shown below.<br>
+![Project Screenshot](images/sql-server/1.PNG)<br>
+3. Once downloaded, run the installer. It will ask you to select an installation type. We used the custom option so that we can enable the full-text search feature of MS SQL Server. This later helped us in searching the textual content present in Posts and Comments efficiently.<br>
+![Project Screenshot](images/sql-server/2a.PNG)<br>
+4. Select the download target location (keep the default) and press Install.<br>
+![Project Screenshot](images/sql-server/3a.PNG)<br>
+5. It will lead you to the SQL Server Installation Center. From the left menu select Installation.<br>
+![Project Screenshot](images/sql-server/4a.PNG)<br>
+6. This will launch the SQL Server 2025 Setup. Select Standard Developer edition (as shown) and press Next.
+![Project Screenshot](images/sql-server/6a.PNG)<br>
+![Project Screenshot](images/sql-server/7a.PNG)<br>
+![Project Screenshot](images/sql-server/8a.PNG)<br>
+![Project Screenshot](images/sql-server/9a.PNG)<br>
+![Project Screenshot](images/sql-server/10a.PNG)<br>
+![Project Screenshot](images/sql-server/11a.PNG)<br>
+![Project Screenshot](images/sql-server/12a.PNG)<br>
+![Project Screenshot](images/sql-server/13a.PNG)<br>
+![Project Screenshot](images/sql-server/14a.PNG)<br>
+![Project Screenshot](images/sql-server/15a.PNG)<br>
+![Project Screenshot](images/sql-server/16a.PNG)<br>
+![Project Screenshot](images/sql-server/17a.PNG)<br>
+![Project Screenshot](images/sql-server/18a.PNG)<br>
+![Project Screenshot](images/sql-server/19a.PNG)<br>
+![Project Screenshot](images/sql-server/20a.PNG)<br>
 
-![Project Screenshot](images/ssms/1.PNG)
-![Project Screenshot](images/ssms/2.PNG)
-![Project Screenshot](images/ssms/3.PNG)
-![Project Screenshot](images/ssms/4.PNG)
+![Project Screenshot](images/ssms/1.PNG)<br>
+![Project Screenshot](images/ssms/2.PNG)<br>
+![Project Screenshot](images/ssms/3.PNG)<br>
+![Project Screenshot](images/ssms/4.PNG)<br>
 
 #### 7zip
 
-![Project Screenshot](images/7zip/1.PNG)
-![Project Screenshot](images/7zip/2.PNG)
-![Project Screenshot](images/7zip/3.PNG)
+![Project Screenshot](images/7zip/1.PNG)<br>
+![Project Screenshot](images/7zip/2.PNG)<br>
+![Project Screenshot](images/7zip/3.PNG)<br>
 
 
 
