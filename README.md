@@ -123,9 +123,12 @@ By now you have successfully installed Python and Jupyter Notebooks.
 ![Project Screenshot](images/ssms/4.PNG)<br>
 
 #### 7zip
-
+1. To decompress the Stack Exchange data dump of any of the sites, you will need to have 7zip installed or supported on your system. If you have Windows 11 (23H2 or later) you don't need to install 7zip. If you have previous versions, follow these steps for installing 7zip from its official site.<br>
+2. Press the download link for Windows.
 ![Project Screenshot](images/7zip/1.PNG)<br>
+3. Once downloaded, run the installer and keep the default destination folder. Press Install.<br>
 ![Project Screenshot](images/7zip/2.PNG)<br>
+4. Once the installation is complete, press close.
 ![Project Screenshot](images/7zip/3.PNG)<br>
 
 
