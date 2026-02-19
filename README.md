@@ -11,6 +11,7 @@ This method has been designed, developed, and reported by the following investig
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above. The detailed step-by-step procedure is given below.
 
 ## How to cite the package
+Fatima, Arjumand; Maqbool, Onaiza (2026). Replication Package for Scalable Conversion of Stack Exchange Network-based Question Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump. figshare. Dataset. https://doi.org/10.6084/m9.figshare.31361758.v1 <br>
 ## Pre-requisites
 ### 1. Downloading the data dump
 You first need to download the quarterly updated data dump of any of the Stack Exchange sites as explained [here](https://stackoverflow.com/help/data-dumps). We have utilized the latest data dump published in January 2026 for   _Stack Overflow_ which is the oldest among 182 Stack Exchange sites with the largest data dump to show the effectiveness of the proposed method.
