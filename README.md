@@ -1,7 +1,7 @@
 # Scalable Conversion of Stack Exchange Network-based Question Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump
 A replication package accompanying paper  entitled "Scalable Conversion of Stack Exchange Network-based Question Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump"
 ## DOI 
-https://doi.org/10.6084/m9.figshare.31361758
+https://doi.org/10.6084/m9.figshare.31361758<br>
 This repository contains the replication package of the paper submitted to the Array Journal entitled _Scalable Conversion of Stack Exchange Network-based Ques-tion Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump_
 
 This method has been designed, developed, and reported by the following investigators:
