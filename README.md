@@ -22,7 +22,7 @@ This method has been designed, developed, and reported by the following investig
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above. The detailed step-by-step procedure is given below.
 
 ## How to cite the paper and the package
-Fatima A, Maqbool O. Scalable conversion of Stack Exchange network-based question answering sites’ data dump to SQL Server database – A case of Stack Overflow data dump. Array. 2026. [Article in press], 100793, ISSN 2590-0056, https://doi.org/10.1016/j.array.2026.100793. (https://www.sciencedirect.com/science/article/pii/S2590005626001165) <br>
+Fatima, Arjumand, and Onaiza Maqbool. "Scalable Conversion of Stack Exchange Network-based Question Answering Sites’ Data Dump to SQL Server Database–A Case of Stack Overflow Data Dump." Array (2026): 100793. <br>
 Fatima, Arjumand; Maqbool, Onaiza (2026). Replication Package for Scalable Conversion of Stack Exchange Network-based Question Answering Sites’ Data Dump to SQL Server Database – A Case of Stack Overflow Data Dump. figshare. Dataset. https://doi.org/10.6084/m9.figshare.31361758.v1 <br>
 ## Pre-requisites
 ### 1. Downloading the data dump
